@@ -1,1 +1,1 @@
-{"status":"SUCCESS12"}
+{"status":"SUCCESS"}
